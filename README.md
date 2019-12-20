@@ -10,6 +10,6 @@ $ cd filter-face/
 $ python filter_face.py
 ```
 
-## Contributtors :
+## Contributors :
 
 - candra : [https://twitter.com/yusufcaka](https://twitter.com/yusufcaka)
